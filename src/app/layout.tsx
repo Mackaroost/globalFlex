@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     title: "GlobalFlex | Soluciones de Logística y Distribución",
     description:
       "Servicios de logística, transporte y distribución a medida. Rápidos, confiables y profesionales.",
-    url: "https://globalflex.com", // cámbialo por tu dominio real
+    url: "https://globalflex.vercel.app", // cámbialo por tu dominio real
     siteName: "GlobalFlex",
     images: [
       {

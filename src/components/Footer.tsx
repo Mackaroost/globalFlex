@@ -65,7 +65,7 @@ const Footer = () => {
                 <div className="w-full md:w-6/12 px-4">
                   <span className="pt-3 md:pt-0 block uppercase text-blueGray-500 text-sm font-semibold mb-2">Contáctanos</span>
                   <ul>
-                    <li><p className="text-blueGray-600 font-semibold block pb-2 text-sm">117483920</p></li>
+                    <li><p className="text-blueGray-600 font-semibold block pb-2 text-sm">1178492420</p></li>
                     <li><p className="text-blueGray-600 font-semibold block pb-2 text-sm">Globalflex00@gmail.com</p></li>
                     <li><p className="text-blueGray-600 font-semibold block pb-2 text-sm">Chacarita</p></li>
                     <li><p className="text-blueGray-600 font-semibold block pb-2 text-sm">Capital Federal, Argentina</p></li>
